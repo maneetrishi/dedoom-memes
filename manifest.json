@@ -1,156 +1,155 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-20T19:47:48.406Z",
   "description": "Official Dedoom 25 Dynamic Memes Pool",
   "totalMemes": 25,
   "memes": [
     {
       "id": "meme1",
-      "url": "memes/meme1.png",
+      "url": "memes/meme (1).png",
       "color": "#EF4444",
       "caption": "Meme 1"
     },
     {
       "id": "meme2",
-      "url": "memes/meme2.png",
+      "url": "memes/meme (2).png",
       "color": "#3B82F6",
       "caption": "Meme 2"
     },
     {
       "id": "meme3",
-      "url": "memes/meme3.png",
+      "url": "memes/meme (3).png",
       "color": "#10B981",
       "caption": "Meme 3"
     },
     {
       "id": "meme4",
-      "url": "memes/meme4.png",
+      "url": "memes/meme (4).png",
       "color": "#F59E0B",
       "caption": "Meme 4"
     },
     {
       "id": "meme5",
-      "url": "memes/meme5.png",
+      "url": "memes/meme (5).png",
       "color": "#8B5CF6",
       "caption": "Meme 5"
     },
     {
       "id": "meme6",
-      "url": "memes/meme6.png",
+      "url": "memes/meme (6).png",
       "color": "#EC4899",
       "caption": "Meme 6"
     },
     {
       "id": "meme7",
-      "url": "memes/meme7.png",
+      "url": "memes/meme (7).png",
       "color": "#06B6D4",
       "caption": "Meme 7"
     },
     {
       "id": "meme8",
-      "url": "memes/meme8.png",
+      "url": "memes/meme (8).png",
       "color": "#F97316",
       "caption": "Meme 8"
     },
     {
       "id": "meme9",
-      "url": "memes/meme9.png",
+      "url": "memes/meme (9).png",
       "color": "#84CC16",
       "caption": "Meme 9"
     },
     {
       "id": "meme10",
-      "url": "memes/meme10.png",
+      "url": "memes/meme (10).png",
       "color": "#6366F1",
       "caption": "Meme 10"
     },
     {
       "id": "meme11",
-      "url": "memes/meme11.png",
+      "url": "memes/meme (11).png",
       "color": "#14B8A6",
       "caption": "Meme 11"
     },
     {
       "id": "meme12",
-      "url": "memes/meme12.png",
+      "url": "memes/meme (12).png",
       "color": "#D946EF",
       "caption": "Meme 12"
     },
     {
       "id": "meme13",
-      "url": "memes/meme13.png",
+      "url": "memes/meme (13).png",
       "color": "#E11D48",
       "caption": "Meme 13"
     },
     {
       "id": "meme14",
-      "url": "memes/meme14.png",
+      "url": "memes/meme (14).png",
       "color": "#059669",
       "caption": "Meme 14"
     },
     {
       "id": "meme15",
-      "url": "memes/meme15.png",
+      "url": "memes/meme (15).png",
       "color": "#EAB308",
       "caption": "Meme 15"
     },
     {
       "id": "meme16",
-      "url": "memes/meme16.png",
+      "url": "memes/meme (16).png",
       "color": "#7C3AED",
       "caption": "Meme 16"
     },
     {
       "id": "meme17",
-      "url": "memes/meme17.png",
+      "url": "memes/meme (17).png",
       "color": "#0284C7",
       "caption": "Meme 17"
     },
     {
       "id": "meme18",
-      "url": "memes/meme18.png",
+      "url": "memes/meme (18).png",
       "color": "#F43F5E",
       "caption": "Meme 18"
     },
     {
       "id": "meme19",
-      "url": "memes/meme19.png",
+      "url": "memes/meme (19).png",
       "color": "#4F46E5",
       "caption": "Meme 19"
     },
     {
       "id": "meme20",
-      "url": "memes/meme20.png",
+      "url": "memes/meme (20).png",
       "color": "#16A34A",
       "caption": "Meme 20"
     },
     {
       "id": "meme21",
-      "url": "memes/meme21.png",
+      "url": "memes/meme (21).png",
       "color": "#CA8A04",
       "caption": "Meme 21"
     },
     {
       "id": "meme22",
-      "url": "memes/meme22.png",
+      "url": "memes/meme (22).png",
       "color": "#9333EA",
       "caption": "Meme 22"
     },
     {
       "id": "meme23",
-      "url": "memes/meme23.png",
+      "url": "memes/meme (23).png",
       "color": "#0891B2",
       "caption": "Meme 23"
     },
     {
       "id": "meme24",
-      "url": "memes/meme24.png",
+      "url": "memes/meme (24).png",
       "color": "#C026D3",
       "caption": "Meme 24"
     },
     {
       "id": "meme25",
-      "url": "memes/meme25.png",
+      "url": "memes/meme (25).png",
       "color": "#2563EB",
       "caption": "Meme 25"
     }
